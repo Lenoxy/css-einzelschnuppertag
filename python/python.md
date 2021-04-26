@@ -181,3 +181,22 @@ Prüfe ob du unter oder über 18 Jahre alt bist.
 
 Gib dann je nach Fall aus, ob du bereits Auto fahren darfst.
 
+## Aufgabe 9
+
+Erstelle eine Programm, welche eine zufällige Zahl generiert. 
+Der Benutzer soll anschliessend über die Konsole die Zufallszahl erraten können. 
+Falls der Benutzer falsch rät, sollst du ihm weiterhelfen indem du ihm sagst, ob er zu tief oder zu hoch geraten hat.
+Der Benutzer kann solange raten bis er die richtige Zahl erraten hat.
+
+Tipp: Einige Sachen in dieser Aufgabe wirst du mithilfe von Google lösen müssen.
+
+## Aufgabe 10
+
+Erweitere das bisherige Programm mit einem Zähler, welcher die Anzahl Versuche nach jedem Versuch auf der Konsole ausgibt.
+
+## Aufgabe 11
+
+Rock, Paper, Scissors
+
+Implementiere ein Rock, Paper, Schissors. Die dazu benötigten Befehle solltest du bereits verwendet haben.
+
