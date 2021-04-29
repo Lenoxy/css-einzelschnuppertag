@@ -56,7 +56,7 @@ Das Auswahlmenü wird oftmals auch als ComboBox bezeichnet. Die ComboBox setzt s
 
 ![Image of Select](images/select.png)
 
-## Aufgabe
+## Aufgabe 1
 
 Nun hast du einige Tags kennengelernt, welche dir ermöglichen eine einfache Webseite zu bauen. Nun ist es aber an dir diese Erkenntnisse in einer Webseite einzubauen. Du startest nun damit ein simples Kontaktformular zu schreiben. Denk daran, der beste Freund eines Softwareentwicklers ist das Internet. Das Internet steht dir also jederzeit zur Verfügung.
 
@@ -82,4 +82,17 @@ Eingabefelder für:
 
 
 - Ein Button, um das Formular abzusenden (muss nicht funktionieren)
+
+## Aufgabe 2
+
+Füge mehrere Seiten zu deinem Formular hinzu. Am Schluss soll es 4 Seiten geben inkl. Kontaktformular. 
+Jede seite soll ein separates HTML File haben. Die Darstellung und Inhalt der Seite soll gemäss den Mockups
+umgesetzt werden.
+
+![Image of Login](images/login.png)
+
+![Image of Image](images/image.png)
+
+![Image of Table](images/table.png)
+
 
